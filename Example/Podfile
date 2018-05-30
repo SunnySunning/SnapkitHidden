@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SnapkitHidden_Example' do
+  pod 'SnapkitHidden', :path => '../'
+
+  target 'SnapkitHidden_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
