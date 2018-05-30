@@ -1,0 +1,6 @@
+framework module Pods_SnapkitHidden_Tests {
+  umbrella header "Pods-SnapkitHidden_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

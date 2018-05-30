@@ -1,0 +1,16 @@
+PODS:
+  - SnapkitHidden (0.1.0)
+
+DEPENDENCIES:
+  - SnapkitHidden (from `../`)
+
+EXTERNAL SOURCES:
+  SnapkitHidden:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapkitHidden: fb9f1d4672341364cf78d251808d840e91ca6a7c
+
+PODFILE CHECKSUM: ce4a66b555855c92f44fcbf01d4d90cfb8cc4e0c
+
+COCOAPODS: 1.5.3
